@@ -3,4 +3,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=trongitnlu&theme=dark)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=trongitnlu)](https://github.com/ryo-ma/github-profile-trophy)
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=trongitnlu)](https://github.com/ryo-ma/github-profile-trophy) -->
